@@ -23,6 +23,7 @@ a{
     color: #7A7C80;
     text-decoration: none;
 }
+
 /* section 1 */
 .section-1{
     padding-top: 40vh;
@@ -72,6 +73,11 @@ a{
     padding-left: 0;
     /*width: 100px;*/
 }
+
+.section-2 a b {
+    color: blueviolet;
+}
+
 /* animations / utilities */
 .section-2 a:hover{
     font-size: 1.21rem;
